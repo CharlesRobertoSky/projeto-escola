@@ -1,0 +1,2 @@
+Projeto udemy para aprendizado de criação de aplicativos reais
+modelo baseado em arquitetura mvc (model controler views) em nodejs
